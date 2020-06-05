@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(39,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(52,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(46,9): warning C4101:  mark: неиспользованная локальная переменная
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(61,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(73,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(74,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(106,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(115,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(155,27): warning C4305:  инициализация: усечение из "int" в "Select"
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(155,23): warning C4309:  инициализация: усечение константного значения
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(194,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(224,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\basic_user.h(189,9): warning C4101:  mark: неиспользованная локальная переменная
+C:\bsuir\4sem\kursach\Проект\client\input_error.h(80,55): warning C4290:  спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\bsuir\4sem\kursach\Проект\client\admin.h(105,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\admin.h(138,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\admin.h(158,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\client\admin.h(175,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  client.vcxproj -> C:\bsuir\4sem\kursach\Проект\client\Debug\client.exe

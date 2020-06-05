@@ -1,0 +1,20 @@
+﻿  server.cpp
+C:\bsuir\4sem\kursach\Проект\server\server.cpp(337,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\server\server.cpp(344,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\server\file.h(41,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\server\file.h(23): message :  во время компиляции функции-члена класс шаблон "void File<User>::OpenLogPass(List<User> &,const char *)"
+C:\bsuir\4sem\kursach\Проект\server\server.cpp(86): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void File<User>::OpenLogPass(List<User> &,const char *)"
+C:\bsuir\4sem\kursach\Проект\server\server.cpp(40): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "File<User>"
+C:\bsuir\4sem\kursach\Проект\server\file.h(45,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\server\file.h(142,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\server\file.h(131): message :  во время компиляции функции-члена класс шаблон "void File<User>::SaveUsers(List<User> &,const char *)"
+C:\bsuir\4sem\kursach\Проект\server\server.cpp(93): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void File<User>::SaveUsers(List<User> &,const char *)"
+C:\bsuir\4sem\kursach\Проект\server\file.h(146,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\server\file.h(79,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\server\file.h(57): message :  во время компиляции функции-члена класс шаблон "void File<Goal>::open_goals(List<Goal> &,const char *)"
+C:\bsuir\4sem\kursach\Проект\server\server.cpp(85): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void File<Goal>::open_goals(List<Goal> &,const char *)"
+C:\bsuir\4sem\kursach\Проект\server\server.cpp(41): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "File<Goal>"
+C:\bsuir\4sem\kursach\Проект\server\file.h(115,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\bsuir\4sem\kursach\Проект\server\file.h(104): message :  во время компиляции функции-члена класс шаблон "void File<Goal>::save_goals(List<Goal> &,const char *)"
+C:\bsuir\4sem\kursach\Проект\server\server.cpp(92): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void File<Goal>::save_goals(List<Goal> &,const char *)"
+  server.vcxproj -> C:\bsuir\4sem\kursach\Проект\server\Debug\server.exe

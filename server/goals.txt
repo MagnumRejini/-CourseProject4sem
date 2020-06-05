@@ -1,0 +1,4 @@
+c test_test uuuser 0.2 10 | 
+test_goal_2 uuuser 0.9 4 | 
+goal_goal uuuser 1 10 | 
+%
